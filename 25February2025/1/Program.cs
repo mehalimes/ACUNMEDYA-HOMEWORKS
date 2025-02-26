@@ -1,4 +1,4 @@
-﻿namespace _1
+﻿234namespace _1
 {
     public class Program
     {
