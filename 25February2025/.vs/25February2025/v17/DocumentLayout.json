@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B080329A-DB10-4C9C-81BE-B0F0DF8F3AB1}|1\\1.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\25february2025\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080329A-DB10-4C9C-81BE-B0F0DF8F3AB1}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7C56BF9-E2B6-46AD-84DE-8255FE27A187}|11\\11.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\25february2025\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C56BF9-E2B6-46AD-84DE-8255FE27A187}|11\\11.csproj|solutionrelative:11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,6 +56,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\1\\Program.cs",
+              "RelativeToolTip": "1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:33:30.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\11\\Program.cs",
               "RelativeDocumentMoniker": "11\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\11\\Program.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\10\\Program.cs",
               "RelativeDocumentMoniker": "10\\Program.cs",
@@ -71,25 +88,23 @@
               "RelativeToolTip": "10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:13:38.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T10:13:38.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "10",
+              "DocumentIndex": 3,
+              "Title": "10.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\10\\10.csproj",
               "RelativeDocumentMoniker": "10\\10.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\10\\10.csproj",
               "RelativeToolTip": "10\\10.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-26T10:13:27.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T10:13:27.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\25February2025\\9\\Program.cs",
               "RelativeDocumentMoniker": "9\\Program.cs",
@@ -97,8 +112,7 @@
               "RelativeToolTip": "9\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:11:39.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T10:11:39.385Z"
             }
           ]
         }
