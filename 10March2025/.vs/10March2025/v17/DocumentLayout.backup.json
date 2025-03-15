@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C2025-F9AB-41B4-B0DB-871EE5C109EB}|Businness\\Businness.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\businness\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C2025-F9AB-41B4-B0DB-871EE5C109EB}|Businness\\Businness.csproj|solutionrelative:businness\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C2025-F9AB-41B4-B0DB-871EE5C109EB}|Businness\\Businness.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\businness\\technologymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C2025-F9AB-41B4-B0DB-871EE5C109EB}|Businness\\Businness.csproj|solutionrelative:businness\\technologymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBF709A-4F23-41D3-810F-87A4FF95C30F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBF709A-4F23-41D3-810F-87A4FF95C30F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBF709A-4F23-41D3-810F-87A4FF95C30F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBF709A-4F23-41D3-810F-87A4FF95C30F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74BF8B-9423-42CD-AFED-3D3DE9FF7D26}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74BF8B-9423-42CD-AFED-3D3DE9FF7D26}|Entities\\Entities.csproj|solutionrelative:entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74BF8B-9423-42CD-AFED-3D3DE9FF7D26}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74BF8B-9423-42CD-AFED-3D3DE9FF7D26}|Entities\\Entities.csproj|solutionrelative:entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBF709A-4F23-41D3-810F-87A4FF95C30F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DBF709A-4F23-41D3-810F-87A4FF95C30F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8798C8C5-FE28-4EB2-ABD4-0F3D5B97007E}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8798C8C5-FE28-4EB2-ABD4-0F3D5B97007E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8798C8C5-FE28-4EB2-ABD4-0F3D5B97007E}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8798C8C5-FE28-4EB2-ABD4-0F3D5B97007E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C2025-F9AB-41B4-B0DB-871EE5C109EB}|Businness\\Businness.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\businness\\businness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA5C2025-F9AB-41B4-B0DB-871EE5C109EB}|Businness\\Businness.csproj|solutionrelative:businness\\businness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74BF8B-9423-42CD-AFED-3D3DE9FF7D26}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\acunmedya-homeworks\\10march2025\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E74BF8B-9423-42CD-AFED-3D3DE9FF7D26}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Presentation",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T18:50:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechnologyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\DataAccess\\TechnologyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TechnologyRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\DataAccess\\TechnologyRepository.cs",
+              "RelativeToolTip": "DataAccess\\TechnologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:47:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgrammingLanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProgrammingLanguageRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeToolTip": "DataAccess\\ProgrammingLanguageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:46:40.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechnologyManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Businness\\TechnologyManager.cs",
+              "RelativeDocumentMoniker": "Businness\\TechnologyManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Businness\\TechnologyManager.cs",
+              "RelativeToolTip": "Businness\\TechnologyManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:45:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgrammingLanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Businness\\ProgrammingLanguageManager.cs",
+              "RelativeDocumentMoniker": "Businness\\ProgrammingLanguageManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Businness\\ProgrammingLanguageManager.cs",
+              "RelativeToolTip": "Businness\\ProgrammingLanguageManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:45:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Entities\\Technology.cs",
+              "RelativeDocumentMoniker": "Entities\\Technology.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Entities\\Technology.cs",
+              "RelativeToolTip": "Entities\\Technology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:49:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgrammingLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Entities\\ProgrammingLanguage.cs",
+              "RelativeDocumentMoniker": "Entities\\ProgrammingLanguage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Entities\\ProgrammingLanguage.cs",
+              "RelativeToolTip": "Entities\\ProgrammingLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:48:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:43:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T18:54:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Businness",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Businness\\Businness.csproj",
+              "RelativeDocumentMoniker": "Businness\\Businness.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Businness\\Businness.csproj",
+              "RelativeToolTip": "Businness\\Businness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T18:54:15.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\ACUNMEDYA-HOMEWORKS\\10March2025\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T18:54:07.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
